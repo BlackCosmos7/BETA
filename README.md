@@ -1,0 +1,2 @@
+# BETA
+Clicker game
